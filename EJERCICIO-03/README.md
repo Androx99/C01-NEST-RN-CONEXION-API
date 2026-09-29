@@ -1,7 +1,7 @@
 # Ejercicio 03
 
 ## Qué he aprendido
-- A hacer peticiones a una id especifica dentro de un array
+- A hacer peticiones a una id especifica dentro de un array usando @Param find.
 
 ## Qué he modificado
 - He añadido datos al mascotas.service para que poder ejecutar el ejemplo y eliminado el findone duplicado para evitar el error
