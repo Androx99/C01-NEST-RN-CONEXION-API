@@ -1,4 +1,4 @@
-# Ejercicio 02 - Mi primera pantalla
+# Ejercicio 02
 
 ## Qué he aprendido
 - Ha crear un array temporal dentro de un service e inyectarlo para que se muestre dentro del get
