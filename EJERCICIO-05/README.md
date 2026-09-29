@@ -2,7 +2,7 @@
 # Ejercicio 05
 
 ## Qué he aprendido
-- 
+- Conectar el backend y el frontend atraves de un fetch · await · JSON creando un boton que llama al controlador de mensaje para mostrar texto en el frontend
 
 ## Qué he modificado
 - He solucionado un error en app.module.ts para que al ejecutar el comando npm run start:dev no de error.
