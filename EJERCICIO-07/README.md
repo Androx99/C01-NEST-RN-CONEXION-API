@@ -1,4 +1,4 @@
-# Ejercicio 06
+# Ejercicio 07
 
 ## Qué he aprendido
 - Ha cargar un dato del backend cuando cargue la pagina usando  useEffect.
